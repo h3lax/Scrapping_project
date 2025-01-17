@@ -388,10 +388,6 @@ temp_csv_files/
 
 lightdash/
 
- 
-
-data/
-
 tmp*/
 
 .telemetry/
@@ -443,8 +439,6 @@ history/runs/*
  
 
 *.html
-
-*.csv
 
 *.xlsx
 
